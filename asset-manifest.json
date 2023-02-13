@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa8bf7cc.css",
+    "main.js": "/static/js/main.29cc53f4.js",
+    "static/media/photo-of-me-1.webp": "/static/media/photo-of-me-1.984c3d33d326c0b9b9f7.webp",
+    "static/media/photo-of-me-2.webp": "/static/media/photo-of-me-2.1502bcf647c171507a8a.webp",
+    "static/media/ChakraPetch-Light.ttf": "/static/media/ChakraPetch-Light.8dabc1fc6d290dfe2e85.ttf",
+    "static/media/ChakraPetch-Bold.ttf": "/static/media/ChakraPetch-Bold.ac19a2618ff468c4d7a2.ttf",
+    "static/media/Righteous-Regular.ttf": "/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
+    "static/media/plank.webp": "/static/media/plank.f420f62d6ce570ed7bf0.webp",
+    "static/media/toolkit.webp": "/static/media/toolkit.da86d68ea0cf621abfbe.webp",
+    "static/media/saw.webp": "/static/media/saw.ce762ec5accdcd70dfb3.webp",
+    "static/media/hammer.webp": "/static/media/hammer.5c232e3599d78521bcf5.webp",
+    "static/media/spanner.webp": "/static/media/spanner.f1cc9b57495bab26ec3c.webp",
+    "static/media/measuring-tape.webp": "/static/media/measuring-tape.302291ad751e229187fa.webp",
+    "static/media/screwdriver.webp": "/static/media/screwdriver.94c900466d5a3c3e45a9.webp",
+    "index.html": "/index.html",
+    "main.fa8bf7cc.css.map": "/static/css/main.fa8bf7cc.css.map",
+    "main.29cc53f4.js.map": "/static/js/main.29cc53f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa8bf7cc.css",
+    "static/js/main.29cc53f4.js"
+  ]
+}
