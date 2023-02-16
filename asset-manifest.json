@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.33b0f893.css",
-    "main.js": "/static/js/main.ae9783d1.js",
+    "main.css": "/static/css/main.21d605ce.css",
+    "main.js": "/static/js/main.f68d798c.js",
     "static/media/photo-of-me-1.webp": "/static/media/photo-of-me-1.984c3d33d326c0b9b9f7.webp",
     "static/media/photo-of-me-2.webp": "/static/media/photo-of-me-2.1502bcf647c171507a8a.webp",
     "static/media/ChakraPetch-Light.ttf": "/static/media/ChakraPetch-Light.8dabc1fc6d290dfe2e85.ttf",
@@ -15,11 +15,11 @@
     "static/media/measuring-tape.webp": "/static/media/measuring-tape.302291ad751e229187fa.webp",
     "static/media/screwdriver.webp": "/static/media/screwdriver.94c900466d5a3c3e45a9.webp",
     "index.html": "/index.html",
-    "main.33b0f893.css.map": "/static/css/main.33b0f893.css.map",
-    "main.ae9783d1.js.map": "/static/js/main.ae9783d1.js.map"
+    "main.21d605ce.css.map": "/static/css/main.21d605ce.css.map",
+    "main.f68d798c.js.map": "/static/js/main.f68d798c.js.map"
   },
   "entrypoints": [
-    "static/css/main.33b0f893.css",
-    "static/js/main.ae9783d1.js"
+    "static/css/main.21d605ce.css",
+    "static/js/main.f68d798c.js"
   ]
 }
